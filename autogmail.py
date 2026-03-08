@@ -30,7 +30,6 @@ Congratulations! You have successfully completed the {certificate} as of {issued
 We look forward to your continued involvement with the club’s operations.
 
 Certificate ID: {uid}
-Verify Certificate: https://5jp20q-my.sharepoint.com/:x:/g/personal/gtcac_5jp20q_onmicrosoft_com/Efiz6QE9dz9OgcVYHSPlAXgBFx2JW4xLFtItzE5maKO3Lg?e=ZA88tZ
 
 Sincerely,
 Shaikh Ahmed
@@ -47,4 +46,5 @@ end = datetime.now()
 
 print()
 diff = end - start 
+
 print(f"Total time took: {diff}") #To check how much time it took.
